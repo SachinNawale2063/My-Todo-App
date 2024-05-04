@@ -1,6 +1,4 @@
-Certainly! Here's the `README.md` content formatted as code:
 
-```markdown
 # MyTodoApp
 
 ![MyTodoApp Screenshot](screenshot.png)
@@ -63,13 +61,11 @@ To run this application locally, follow these steps:
 - CSS
 - JavaScript
 
-## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## Author
 
-[Your Name](https://github.com/your-username)
-```
+[Sachin Nawale](https://github.com/your-username)
+
 
 Make sure to replace `your-username` with your actual GitHub username and update the links and paths to the screenshots accordingly.
