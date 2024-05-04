@@ -1,7 +1,6 @@
 
 # MyTodoApp
 
-![MyTodoApp Screenshot](screenshot.png)
 
 MyTodoApp is a simple yet powerful Todo application built using React.js, Tailwind CSS, HTML, CSS, and JavaScript. With MyTodoApp, you can easily manage your daily tasks, mark them as completed, edit them, and delete them as needed.
 
@@ -11,7 +10,7 @@ MyTodoApp is a simple yet powerful Todo application built using React.js, Tailwi
 - Mark todos as completed
 - Edit existing todos
 - Delete todos
-- Toggle between light and dark themes
+- Show completed todos along with all todos
 - Responsive design for mobile, tablet, and desktop
 
 ## Demo
@@ -46,12 +45,8 @@ To run this application locally, follow these steps:
    npm run dev
    ```
 
-5. Open your web browser and go to `http://localhost:3000` to view the app.
+5. Open your web browser and go to `http://localhost:5173` to view the app.
 
-## Screenshots
-
-![Screenshot 1](screenshots/screenshot1.png)
-![Screenshot 2](screenshots/screenshot2.png)
 
 ## Technologies Used
 
@@ -62,10 +57,7 @@ To run this application locally, follow these steps:
 - JavaScript
 
 
-
 ## Author
 
 [Sachin Nawale](https://github.com/your-username)
 
-
-Make sure to replace `your-username` with your actual GitHub username and update the links and paths to the screenshots accordingly.
